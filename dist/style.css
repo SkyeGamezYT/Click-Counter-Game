@@ -1,0 +1,41 @@
+body {
+  background-color: #414141;
+}
+
+#click {
+  height: 200px;
+  width: 500px;
+  border: 10px solid #9269b1;
+  margin: auto;
+  margin-top: 50px;
+  background-color: #88b169;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+#number {
+  height: 25px;
+  width: 250px;
+  margin: auto;
+  margin-top: 50px;
+  border: 1px solid black;
+  text-align: center;
+  background-color: white;
+}
+
+#increment {
+  height: 25px;
+  width: 100px;
+  margin-top: 50px;
+  margin-left: 125px;
+}
+
+#reset {
+  height: 25px;
+  width: 100px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
